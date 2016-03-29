@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "aerodactyl",
-    "repositoryName": "aerodactyl.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"aerodactyl","repositoryName":"aerodactyl.github.io","branch":"master"},"site":{"title":"Aerodactyl","cover":"aerodactyl.github.io/images/cover.jpg","postsPerPage":"10","url":"https://aerodactyl.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//aerodactyl.github.io/themes/Casper"}}
